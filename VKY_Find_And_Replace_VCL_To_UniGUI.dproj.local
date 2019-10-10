@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/26 15:02:56.000.000,=C:\Documents and Settings\soporte\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/26 15:05:05.000.765,C:\Proyectos\Clientes\desarrollo_branch_carlos\find_and_replace\VKY_Find_And_Replace_VCL_To_UniGUI_Mod.pas=C:\Documents and Settings\soporte\My Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/26 15:05:05.000.765,C:\Proyectos\Clientes\desarrollo_branch_carlos\find_and_replace\VKY_Find_And_Replace_VCL_To_UniGUI_Mod.dfm=C:\Documents and Settings\soporte\My Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/06/26 15:05:23.000.296,C:\Proyectos\Clientes\desarrollo_branch_carlos\find_and_replace\VKY_Find_And_Replace_VCL_To_UniGUI.dproj=C:\Documents and Settings\soporte\My Documents\RAD Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
